@@ -4,6 +4,7 @@
 	<trackList>
 		<track>
 			<location>https://backup.qurango.net/radio/maher</location>
+			<title>قرآن كريم - مصر</title>
 			<extension application="http://www.videolan.org/vlc/playlist/0">
 				<vlc:id>0</vlc:id>
 				<vlc:option>network-caching=1000</vlc:option>
